@@ -1,0 +1,5 @@
+yt-dlp==2025.08.01
+playwright==1.40.0
+apscheduler==3.10.1
+# ffmpeg-python 可选，如果你希望用 python 接口操作 ffmpeg
+ffmpeg-python==0.6.0
